@@ -6,4 +6,4 @@ In some cases, these libraries can also provide extra tooling that helps with di
 
 ---
 
-These libraries are not produced, endorsed or otherwise affiliated with the PHP-FIG.
+These libraries are not produced or endorsed by, or otherwise affiliated with, the PHP-FIG.
