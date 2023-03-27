@@ -4,7 +4,7 @@ Each of these packages provides a mock of a particular PHP-FIG PSR implementatio
 
 This is largely intended for use in libraries like SDKs that consume PSRs implimentations without requiring hard dependencies on specific libraries. These libraries also provide additional APIs that further simplify unit testing, while strictly adhering to the PSR specification and offering the most accurate representation of what a real world usage will look like.
 
-These packages pairs nicely with the [PSR Discovery](https://github.com/psr-discovery) suite, which can automatically detect the presence of any of these mock implementations and prefer them during unit test runs without extra configuration.
+These packages pairs nicely with the [PSR Discovery](https://github.com/psr-discovery) suite, which can automatically detect the presence of any of these mock implementations in your development environment and will prefer them during unit test runs without extra configuration.
 
 ---
 
