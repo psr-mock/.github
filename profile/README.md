@@ -1,4 +1,4 @@
-**Lightweight mock PSR implementations tailored for simplified unit testing.**
+**Lightweight mock PSR implementations tailored to simplify unit testing.**
 
 Each of these packages provides a mock of a particular PHP-FIG PSR implementation. It currently supports [PSR-18 HTTP Clients](https://github.com/psr-mock/http-client-implementation), [PSR-17 HTTP Factories](https://github.com/psr-mock/http-factory-implementation) and [PSR-7 HTTP Message](https://github.com/psr-mock/http-message-implementation) implementations.
 
